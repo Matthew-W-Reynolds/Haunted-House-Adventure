@@ -8,4 +8,4 @@ Published by Usborne, 1983.
 
 PDF: https://colorcomputerarchive.com/repo/Documents/Books/Write%20Your%20Own%20Adventure%20Programs%20(1983)(Usborne).pdf
 
-Ported to Python by Matthew W. Reynolds (matthewreynolds1972@gmail.com), 17/04/2022
+Ported to Python by Matthew W. Reynold, 17/04/2022
